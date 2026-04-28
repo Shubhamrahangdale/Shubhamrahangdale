@@ -1,18 +1,71 @@
-# 💫 About Me:
-👋 Hi, I'm Shubham Rahangdale<br><br>💻 Software Development Engineer passionate about building scalable and efficient applications.<br>🚀 Strong foundation in Data Structures, Backend Development, and Full-Stack Engineering.<br><br>🔧 Tech Stack:<br><br>* 👨‍💻 Languages: Java, JavaScript<br>* ⚙️ Backend: Spring Boot, REST APIs<br>* 🌐 Frontend: React, HTML, CSS<br>* 🗄️ Database: MySQL, MongoDB<br>* 🔄 Tools: Git, GitHub, Docker<br><br>📌 What I Do:<br><br>* Build full-stack web applications<br>* Develop clean and scalable backend systems<br>* Design RESTful APIs using Spring Boot<br>* Solve DSA problems and improve problem-solving skills<br><br>📈 Currently Learning:<br><br>* System Design (Low-Level & High-Level)<br>* Advanced DSA & Competitive Programming<br>* Scalable Backend Architecture<br><br>📫 Connect with me:<br><br>* LinkedIn: https://www.linkedin.com/in/shubham-rahangdale-3b36a7211<br>* GitHub: https://github.com/Shubhamrahangdale<br><br>⚡ Fun Fact: I enjoy solving complex problems and turning ideas into real-world applications.<br>
+# 👋 Hi, I'm Shubham Rahangdale
 
+💻 Software Development Engineer | Java | Spring Boot | React
+🚀 Passionate about building scalable backend systems and full-stack applications
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_shubham1361) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shubhamrahangdale) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shubhamrahangdale1605@gmail.com) 
+---
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat-square&logo=powershell&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=flat-square&logo=react) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat-square&logo=npm&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat-square&logo=nodemon&logoColor=%BBDEAD) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat-square&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=flat-square&logo=yarn&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=flat-square&logo=apache-tomcat&logoColor=black) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat-square&logo=jenkins&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat-square&logo=Amazon%20DynamoDB&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=firefox&logoColor=#FF7139) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=flat-square&logo=babel&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat-square&logo=terraform&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Shubhamrahangdale&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Shubhamrahangdale&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Shubhamrahangdale&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 💫 About Me
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Shubhamrahangdale&theme=merko&no-frame=true&no-bg=false&margin-w=4)
+* 🔹 SDE focused on **Backend Development & Problem Solving**
+* 🔹 Strong foundation in **Data Structures & Algorithms**
+* 🔹 Experience in building **full-stack and cloud-based applications**
+* 🔹 Interested in **System Design & Scalable Architectures**
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+## 🔧 Tech Stack
+
+**Languages:**
+Java, JavaScript
+
+**Backend:**
+Spring Boot, REST APIs
+
+**Frontend:**
+React, HTML, CSS
+
+**Database:**
+MySQL, MongoDB
+
+**Tools & Technologies:**
+Git, GitHub, Docker, Postman
+
+---
+
+## 📌 What I Do
+
+* ✅ Build scalable backend systems using Spring Boot
+* ✅ Develop full-stack web applications
+* ✅ Design and implement RESTful APIs
+* ✅ Solve DSA problems and improve coding skills
+
+---
+
+## 📈 Currently Learning
+
+* System Design (HLD & LLD)
+* Advanced Data Structures & Algorithms
+* Scalable Backend Architecture
+
+---
+
+## 🌐 Connect With Me
+
+* 🔗 LinkedIn: https://www.linkedin.com/in/shubham-rahangdale-3b36a7211
+* 💻 GitHub: https://github.com/Shubhamrahangdale
+* 📧 Email: [shubhamrahangdale1605@gmail.com](mailto:shubhamrahangdale1605@gmail.com)
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Shubhamrahangdale\&show_icons=true\&theme=dark)
+![](https://streak-stats.demolab.com/?user=Shubhamrahangdale\&theme=dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhamrahangdale\&layout=compact\&theme=dark)
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy solving complex problems and turning ideas into real-world applications 🚀
